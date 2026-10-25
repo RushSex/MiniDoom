@@ -1,0 +1,12 @@
+# Сборка
+build/
+out/
+.vs/
+CMakeUserPresets.json
+*.ppm
+# Visual Studio
+*.user
+*.suo
+x64/
+Debug/
+Release/

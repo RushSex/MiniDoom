@@ -1,0 +1,10 @@
+# .clang-tidy — какие проверки статического анализатора включены
+Checks: >
+  -*,
+  bugprone-*,
+  performance-*,
+  modernize-*,
+  readability-container-size-empty,
+  -bugprone-easily-swappable-parameters,
+  -modernize-use-trailing-return-type,
+  -modernize-use-nodiscard

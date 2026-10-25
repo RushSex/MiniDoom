@@ -1,0 +1,6 @@
+* text=auto
+*.cpp text
+*.hpp text
+*.lvl text
+*.png binary
+*.wav binary
